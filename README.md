@@ -9,7 +9,7 @@ Las cámaras térmicas miden fundamentalmente la temperatura de la superficie de
 
 Los seres humanos pueden sentir el calor, pero no pueden verlo, porque el calor ocurre en la longitud de onda infrarroja del espectro electromagnético, *ver Figuras Nos. 1 y 2.* Las cámaras térmicas, por otro lado, capturan energía infrarroja y generan imágenes interpretables que se ajustan a la visión humana. Es importante tener en cuenta que, no todos los objetos emiten una firma de calor precisa. El grado en el que un objeto absorbe o refleja el calor se llama emisividad y varía mucho entre los objetos. Además, los objetos con alta emisividad, como la madera, se pueden detectar con facilidad con un dispositivo de imágenes térmicas, mientras que los de baja emisividad, como las baldosas, no se pueden detectar con facilidad con una cámara térmica (DJI Enterprise, 2021).
 
-![](https://lamonalista.com/wp-content/uploads/2020/08/Espectro-electromagnetico-luz-768x345.jpg)\
+![](espectro.jpg)\
 **Figura No. 1 Espectro electromagnético**.\
 Fuente: [La Mona Lista, 2020](https://lamonalista.com/valor-y-luz/)
 
